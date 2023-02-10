@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @UlmerMan
-- 👀 I’m interested in you
 - 🌱 I’m currently learning Arduino and C
 
 
