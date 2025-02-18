@@ -5,7 +5,7 @@
 - 🦀 Teaching myself Rust programming
 - 🌱 Learning and growing every day
 
-## Favorite Tools
+## Things I use
 - Linux
 - Rust
 - Python
