@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @UlmerMan
-- 🌱 I’m currently learning Arduino and C
+# 👋 Hello World!
 
-![UlmerMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlmerMan)
+## About Me
+- 📚 10th Grade Student
+- 🦀 Teaching myself Rust programming
+- 🌱 Learning and growing every day
 
-<!---
-UlmerMan/UlmerMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Favorite Tools
+- Linux
+- Rust
+- Python
+- C++
+
+## My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlmerMan&show_icons=true&theme=transparent)
+
