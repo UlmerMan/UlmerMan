@@ -6,7 +6,7 @@
 - 🌱 Learning and growing every day
 
 ## Things I use
-- Linux
+- 🐧Linux
 - Rust
 - Python
 - C++
